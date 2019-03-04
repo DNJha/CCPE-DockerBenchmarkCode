@@ -1,0 +1,9 @@
+Sample Intel Optimized LINPACK Benchmark data file
+User Defined String
+1		#Number of tests
+15000	#Number of Equations
+15000	#Leading Dimensions
+1		#Number of times to run a test (trails)
+4		#Alignmnet values (in KBytes)
+
+
